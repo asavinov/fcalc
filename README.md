@@ -1,0 +1,2 @@
+# fcalc
+Fuzzy Calculator
