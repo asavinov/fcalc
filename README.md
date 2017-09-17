@@ -8,5 +8,5 @@ with the numbers from the interval [0,1].
 ## Author
 
 Alexandr Savinov 
-  * http://conceptoriented.org/savinov
-  * https://www.researchgate.net/profile/Alexandr_Savinov
+* http://conceptoriented.org/savinov
+* https://www.researchgate.net/profile/Alexandr_Savinov
